@@ -1,8 +1,28 @@
-👋 Hi, I’m Yassin Hajjej, a passionate coder and lifelong learner based in San Francisco.
+# Hi, I'm Yassin Hajjej 👋
 
-👀 I’m interested in web development, machine learning, and building innovative solutions to real-world problems.
+I'm a full-stack developer based in San Francisco, passionate about building products that solve real problems. I love working across the stack — from crafting clean UIs to designing scalable backends.
 
-🌱 I’m currently honing my skills in JavaScript, Python, and React.js, while exploring the fascinating world of data science and artificial intelligence.
+## About Me
 
-📫 You can reach me at ysnhajjej@gmail.com. Let's connect and collaborate on exciting projects!
+- 🔭 Currently building [AssetVault](https://assetvault-iota.vercel.app/) — a platform for managing and tracking assets
+- 🌱 Deepening my expertise in JavaScript, Python, React.js, and exploring AI/ML
+- 💡 Interested in web development, data science, and turning ideas into working products
+- 📫 Reach me at [ysnhajjej@gmail.com](mailto:ysnhajjej@gmail.com)
 
+## Tech Stack
+
+**Frontend:** JavaScript · React.js · HTML/CSS
+
+**Backend:** Python · Django · Node.js
+
+**Tools & Other:** Git · REST APIs · Machine Learning
+
+## Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| AssetVault | Asset management and tracking platform | [Live](https://assetvault-iota.vercel.app/) |
+
+---
+
+Let's connect and build something great together!
