@@ -4,7 +4,7 @@ I'm a full-stack developer based in San Francisco, passionate about building pro
 
 ## About Me
 
-- 🔭 Currently building [AssetVault](https://assetvault-iota.vercel.app/) — a platform for managing and tracking assets
+- 🔭 Currently building [Itoria](https://assetvault-iota.vercel.app/) — a platform for managing and tracking assets
 - 🌱 Deepening my expertise in JavaScript, Python, React.js, and exploring AI/ML
 - 💡 Interested in web development, data science, and turning ideas into working products
 - 📫 Reach me at [ysnhajjej@gmail.com](mailto:ysnhajjej@gmail.com)
@@ -21,7 +21,7 @@ I'm a full-stack developer based in San Francisco, passionate about building pro
 
 | Project | Description | Link |
 |---------|-------------|------|
-| AssetVault | Asset management and tracking platform | [Live](https://assetvault-iota.vercel.app/) |
+| Itoria | Asset management and tracking platform | [Live](https://assetvault-iota.vercel.app/) |
 
 ---
 
